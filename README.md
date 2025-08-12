@@ -1,7 +1,8 @@
 
 # Cool Face Blurring Script (OpenCV + dlib)
 
-![Face Blur Banner](https://pixelbuddha.net/textures/3329-blurred-faces-backgrounds)
+![Face Blur Banner](https://images.unsplash.com/photo-1581090700227-4c4f50c2cda5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80
+)
 
 > A real-time Python script that detects faces using your webcam and applies a strong Gaussian blur for privacy, fun, or content creation.
 
