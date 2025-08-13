@@ -85,7 +85,7 @@ python face_blur.py
 
 ## License
 
-This project is licensed under the MIT License – see [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License – see [LICENSE](https://github.com/Kieranmcm07/Face_Blur_Webcam/blob/main/LICENSE.md) for details.
 
 ### Created with ⚡ by Kieranmcm07
 
