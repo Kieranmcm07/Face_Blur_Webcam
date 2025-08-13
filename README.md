@@ -1,7 +1,12 @@
 
 # Cool Face Blurring Script (OpenCV + dlib)
 
+<div style="text-align: center">
+
 ![Face Blur Banner](https://github.com/Kieranmcm07/Face_Blur_Webcam/blob/main/assets/bannerexample.png?raw=true)
+
+</div>
+
 
 > A real-time Python script that detects faces using your webcam and applies a strong Gaussian blur for privacy, fun, or content creation.
 
